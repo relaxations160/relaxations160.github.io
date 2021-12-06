@@ -1,7 +1,7 @@
 ---
-title: "Category"
+title: "Project"
 permalink: /project/
-layout: category
+layout: splash
 ---
 
-카테고리 샘플 테스트
+프로젝트 샘플 테스트
