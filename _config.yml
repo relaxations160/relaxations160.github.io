@@ -106,11 +106,11 @@ author:
   avatar           : "/assets/images/teaser.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech and Arts"
   location         : "South Korea"
-  email            : # "relax.kch@gmail.com"
+  email            : "relax.kch@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "relax.kch@gmail.com"
+      # url: "relax.kch@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
