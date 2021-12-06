@@ -24,7 +24,7 @@ description              : "Tech and Arts"
 url                      : "https://relaxations160.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser_door.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/teaser.jpg"# Open Graph/Twitter default site image
+og_image                 : "/assets/images/teaser_door.jpg"# Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "CH.K"
-  avatar           : "/assets/images/teaser.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/teaser_door.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech and Arts"
   location         : "South Korea"
   email            : "relax.kch@gmail.com"
