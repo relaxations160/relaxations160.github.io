@@ -193,7 +193,10 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: 
+syntax_highlighter_opts:
+    block:
+        line_numbers: true
 
 
 # Markdown Processing
@@ -228,6 +231,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
