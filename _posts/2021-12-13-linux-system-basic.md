@@ -3,7 +3,7 @@ title:  "리눅스 시스템 이해"
 excerpt: "운영체제, 커널, 쉘"
 
 categories:
-  - Blog
+  - Linux
 
 toc : true
 toc_sticky : true
