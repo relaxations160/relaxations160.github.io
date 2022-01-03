@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.Arm %}
+{% assign posts = site.categories.ARM %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
