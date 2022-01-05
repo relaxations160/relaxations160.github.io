@@ -18,7 +18,7 @@
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
-                    {% if category[0] == "C System" %}
+                    {% if category[0] == "C" %}
                         <li><a href="/categories/c" class="">C ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
@@ -27,12 +27,12 @@
             <ul>
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
-                    {% if category[0] == "Linux System" %}
+                    {% if category[0] == "Linux" %}
                         <li><a href="/categories/linux" class="">Linux ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Embedded System</span>
+        <span class="nav__sub-title">Embedded</span>
             <ul>
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
